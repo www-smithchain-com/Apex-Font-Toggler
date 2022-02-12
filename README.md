@@ -15,7 +15,7 @@ APEX Font Toggler (AFT) Plugin allows user to increase or decrease application f
 * Choose a region in affected element.
 * Save and Run.
 
-[Demo](hhttps://apex.oracle.com/pls/apex/ontoor/r/apex-font-toggler/home)
+[Demo](https://apex.oracle.com/pls/apex/ontoor/r/apex-font-toggler/home)
 
 ### About
 twitter: [@Smith121266](https://twitter.com/Smith121266)  
