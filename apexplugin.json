@@ -20,10 +20,9 @@
 		"url": "https://github.com/www-smithchain-com/Apex-Font-Toggler.git"
 	},
 	"oracle": {
-		"versions": ["11.2.0.1", "12.1.0.1","19.0.0.0.0"],
+		"versions": [ "12.1.0.1","19.0.0.0.0"],
 		 "apex":{
          "versions":[ 
-			"20.2.0",
 			"21.1.7",
 			"21.2.0"
           ],
