@@ -1,0 +1,38 @@
+{
+	"name": "APEX Font Toggler (AFT)",
+	"version": "1.0",
+	"description": "APEX Font Toggler (AFT).\r\n\u003Ch4\u003EFree Plug-in under MIT License\u003C\/h4\u003E\r\nThis plugin is free for use under MIT license.\r\n\u003C\/p\u003E\r\n\u003Ch4\u003EOverview\u003C\/h4\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EAPEX Font Toggler (AFT) plugin \u003C\/strong\u003E allows user to increase or decrease application font size as per their convenient.",
+	"keywords": ["APEX Font Toggler (AFT)","FONT","FONT TOGGLER"],
+	"homepage": "https://github.com/www-smithchain-com/Apex-Font-Toggler.git",
+	"bugs": {
+		"url": "https://github.com/www-smithchain-com/Apex-Font-Toggler/issues",
+		"email": "vikaspandey641@gmail.com"
+	},
+	"license": "MIT",
+	"author": {
+		"name": "Vikas Pandey",
+		"email": "vikaspandey641@gmail.com",
+		"url": "https://blogs.ontoorsolutions.com/",
+		"twitter": "smith121266"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/www-smithchain-com/Apex-Font-Toggler.git"
+	},
+	"oracle": {
+		"versions": ["11.2.0.1", "12.1.0.1","19.0.0.0.0"],
+		 "apex":{
+         "versions":[ 
+			"20.2.0",
+			"21.1.7",
+			"21.2.0"
+          ],
+			"plugin": {
+				"internalName": "APEX_FONT_TOGGLER",
+				"type": "dynamic action",
+				"demo": "https://apex.oracle.com/pls/apex/ontoor/r/apex-font-toggler/home",
+				"previewImage": "https://raw.githubusercontent.com/www-smithchain-com/Apex-Font-Toggler/main/preview.gif"
+			}
+		}
+	}
+}
